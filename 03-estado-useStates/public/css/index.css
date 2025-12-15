@@ -1,0 +1,25 @@
+
+
+
+.div-r
+{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.div-rojo{
+    background: red;
+}
+
+.div-verde{
+    background: green;
+}
+
+.div-amarillo{
+    background: yellow;
+}
