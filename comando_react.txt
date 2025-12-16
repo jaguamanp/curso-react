@@ -1,3 +1,9 @@
 
-
+# Crear proyecto nuevo 
 npm create vite@latest react-dia1 --template react
+
+# Crear estilos en react 
+npm install @mui/material @emotion/react @emotion/styled
+
+# url de estilos de react
+https://mui.com/material-ui/react-card/
